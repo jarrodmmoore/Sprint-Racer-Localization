@@ -1,0 +1,364 @@
+{
+   "providers": [
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_1.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE001"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_2.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE002"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_3.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE003"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_4.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE004"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_5.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE005"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_6.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE006"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_7.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE007"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_8.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE008"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/nav_arrow_unknown.png",
+         "ascent": 32,
+         "height": 40,
+         "chars": ["\uE009"],
+         "shift": [0.0, 0.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/music_logo_1.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE010"],
+         "shift": [0.0, 100.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/music_logo_2.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE011"],
+         "shift": [0.0, 100.0]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/creative_commons.png",
+         "ascent": 10,
+         "height": 10,
+         "chars": ["\uE099"],
+         "shift": [0.0, 100.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/game_logo.png",
+         "ascent": 10,
+         "height": 10,
+         "chars": ["\uE012"],
+         "shift": [0.0, 100.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_1.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE013"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_2.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE014"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_3.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE015"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_4.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE016"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_5.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE017"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_6.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE018"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_7.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE019"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_8.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE020"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_9.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE021"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_10.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE022"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_11.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE023"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_12.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE024"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_13.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE025"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/heart_14.png",
+         "ascent": 8,
+         "height": 8,
+         "chars": ["\uE026"],
+         "shift": [0.0, 20.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_1.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE027"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_2.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE028"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_3.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE029"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_4.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE030"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_5.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE031"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_6.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE032"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_7.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE033"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_8.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE034"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_9.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE035"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_10.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE036"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_11.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE037"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_12.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE038"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_13.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE039"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_14.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE040"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_15.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE041"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/loading_16.png",
+         "ascent": 50,
+         "height": 50,
+         "chars": ["\uE042"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/round_finished.png",
+         "ascent": 10,
+         "height": 20,
+         "chars": ["\uE043"],
+         "shift": [0.0, 0.0]
+      },
+	  {
+         "type": "bitmap",
+         "file": "minecraft:custom_gui/checkpoint_post.png",
+         "ascent": 24,
+         "height": 24,
+         "chars": ["\uE044"],
+         "shift": [0.0, 0.0]
+      }
+	]
+}

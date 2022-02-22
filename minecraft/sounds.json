@@ -1,0 +1,541 @@
+{
+		"sr_horns/honk1": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk1"
+               }
+            ]
+    },
+		"sr_horns/honk2": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk2"
+               }
+            ]
+    },
+		"sr_horns/honk3": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk3"
+               }
+            ]
+    },
+		"sr_horns/honk4": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk4"
+               }
+            ]
+    },
+		"sr_horns/honk5": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk5"
+               }
+            ]
+    },
+		"sr_horns/honk6": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk6"
+               }
+            ]
+    },
+		"sr_horns/honk7": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk7"
+               }
+            ]
+    },
+		"sr_horns/honk8": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk8"
+               }
+            ]
+    },
+		"sr_horns/honk9": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk9"
+               }
+            ]
+    },
+		"sr_horns/honk10": {
+          "sounds": [
+               {
+               "name": "sr_horns/honk10"
+               }
+            ]
+    },
+     "sprint_racer_ost/blank": {
+          "sounds": [
+               {
+               "name": "custom_sfx/blank",
+               "attenuation_distance": 99999999,
+               "volume": 0.1,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/loading_zone": {
+          "sounds": [
+               {
+               "name": "soundtrack_august/loading_zone",
+               "attenuation_distance": 99999999,
+               "volume": 0.4,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/candycolouredsky": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/candycolouredsky",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/dreams": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/dreams",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/starrynight": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/starrynight",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/isolatedmind": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/isolatedmind",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/cease": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/cease",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/adventures": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/adventures",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/prism": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/prism",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/discodance": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/bubbly",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/activegroove": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/activegroove",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/bubbly": {
+          "sounds": [
+               {
+               "name": "soundtrack_argofox/bubbly",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/skylight": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/skylight",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/animalistic": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/animalistic",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/screechingfriction": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/screechingfriction",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/helpless": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/helpless",
+               "attenuation_distance": 99999999,
+               "volume": 0.68,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/anxiety": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/anxiety",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/powercore": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/powercore",
+               "attenuation_distance": 99999999,
+               "volume": 0.68,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/oppressivesphere": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/oppressivesphere",
+               "attenuation_distance": 99999999,
+               "volume": 0.37,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/forgotten": {
+          "sounds": [
+               {
+               "name": "soundtrack_zetasphere/forgotten",
+               "attenuation_distance": 99999999,
+               "volume": 0.7,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom1": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom1",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom2": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom2",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom3": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom3",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom4": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom4",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom5": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom5",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom6": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom6",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom7": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom7",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom8": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom8",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom9": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom9",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"custom_sfx/crowd1": {
+          "sounds": [
+               {
+               "name": "custom_sfx/crowd1",
+			   "attenuation_distance": 99999999,
+               "volume": 0.6,
+               "stream": "false"
+               }
+            ]
+    },
+	"custom_sfx/crowd2": {
+          "sounds": [
+               {
+               "name": "custom_sfx/crowd2",
+			   "attenuation_distance": 99999999,
+               "volume": 0.2,
+               "stream": "false"
+               }
+            ]
+    },
+	"custom_sfx/crowd3": {
+          "sounds": [
+               {
+               "name": "custom_sfx/crowd3",
+			   "attenuation_distance": 99999999,
+               "volume": 0.3,
+               "stream": "false"
+               }
+            ]
+    },
+	"custom_sfx/crowd4": {
+          "sounds": [
+               {
+               "name": "custom_sfx/crowd4",
+			   "attenuation_distance": 99999999,
+               "volume": 0.3,
+               "stream": "false"
+               }
+            ]
+    },
+	"custom_sfx/crowd5": {
+          "sounds": [
+               {
+               "name": "custom_sfx/crowd5",
+			   "attenuation_distance": 99999999,
+               "volume": 0.3,
+               "stream": "false"
+               }
+            ]
+    },
+		"custom_sfx/lobby_ring": {
+          "sounds": [
+               {
+               "name": "custom_sfx/lobby_ring",
+			   "attenuation_distance": 99999999,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit1": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit1",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.9,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit2": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit2",
+			   "attenuation_distance": 99999999,
+			   "volume": 1.0,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit3": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit3",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.6,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit4": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit4",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.7,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit5": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit5",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.7,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit6a": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit6a",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.3,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit6b": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit6b",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.2,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit6c": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit6c",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.2,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit6d": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit6d",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.2,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit6e": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit6e",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.2,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/hit7": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/hit7",
+			   "attenuation_distance": 99999999,
+			   "volume": 0.6,
+               "stream": "false"
+               }
+            ]
+    },
+		"sr_hitsounds/ko": {
+          "sounds": [
+               {
+               "name": "sr_hitsounds/ko",
+			   "attenuation_distance": 99999999,
+			   "volume": 1.0,
+               "stream": "false"
+               }
+            ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "block/red_wool"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1111111}, "model": "block/custom_chest_red"}
+	]
+}

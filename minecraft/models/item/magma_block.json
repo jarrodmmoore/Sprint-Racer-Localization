@@ -1,0 +1,10 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "block/magma"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":5555555}, "model": "block/better_fireball"}
+	]
+}

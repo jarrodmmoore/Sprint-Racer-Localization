@@ -1,0 +1,10 @@
+{
+	"parent": "block/gray_concrete",
+	"textures": {
+		"layer0": "block/gray_concrete"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1111111}, "model": "block/red_rocket"}
+	]
+}

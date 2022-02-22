@@ -1,0 +1,10 @@
+{
+	"parent": "block/lime_concrete",
+	"textures": {
+		"layer0": "block/lime_concrete"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1111111}, "model": "block/sr_readyup_go"}
+	]
+}

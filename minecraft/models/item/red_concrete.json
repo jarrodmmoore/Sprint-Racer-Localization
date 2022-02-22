@@ -1,0 +1,10 @@
+{
+	"parent": "block/red_concrete",
+	"textures": {
+		"layer0": "block/red_concrete"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1111111}, "model": "block/sr_readyup_stop"}
+	]
+}

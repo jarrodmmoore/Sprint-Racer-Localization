@@ -1,0 +1,25 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/shulker_shell"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1111111}, "model": "sr_inventory/inventory_1a"},
+		{"predicate": {"custom_model_data":1111112}, "model": "sr_inventory/inventory_1b"},
+		{"predicate": {"custom_model_data":1111121}, "model": "sr_inventory/inventory_2a"},
+		{"predicate": {"custom_model_data":1111122}, "model": "sr_inventory/inventory_2b"},
+		{"predicate": {"custom_model_data":1111123}, "model": "sr_inventory/inventory_2c"},
+		{"predicate": {"custom_model_data":1111131}, "model": "sr_inventory/inventory_3a"},
+		{"predicate": {"custom_model_data":1111132}, "model": "sr_inventory/inventory_3b"},
+		{"predicate": {"custom_model_data":1111141}, "model": "sr_inventory/inventory_4a"},
+		{"predicate": {"custom_model_data":1111142}, "model": "sr_inventory/inventory_4b"},
+		{"predicate": {"custom_model_data":1111151}, "model": "sr_inventory/inventory_5a"},
+		{"predicate": {"custom_model_data":1111152}, "model": "sr_inventory/inventory_5b"},
+		{"predicate": {"custom_model_data":1111161}, "model": "sr_inventory/inventory_6a"},
+		{"predicate": {"custom_model_data":1111162}, "model": "sr_inventory/inventory_6b"},
+		{"predicate": {"custom_model_data":1111171}, "model": "sr_inventory/inventory_7a"},
+		{"predicate": {"custom_model_data":1111172}, "model": "sr_inventory/inventory_7b"},
+		{"predicate": {"custom_model_data":1111180}, "model": "sr_inventory/inventory_8"}
+	]
+}
