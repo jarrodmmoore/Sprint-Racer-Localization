@@ -1312,5 +1312,9 @@
     "sr.editor.face_direction.degrees_minus5": "[-5 degrees]",
     "sr.editor.face_direction.degrees_minus45": "[-45 degrees]",
     "sr.editor.face_direction.facing_self": "All selected nodes are now facing you.",
-    "sr.editor.warn_missing_activator": "There is no working activator node within 100m! Nodes don't function here!"
+    "sr.editor.warn_missing_activator": "There is no working activator node within 100m! Nodes don't function here!",
+    "sr.lobby.save_state.gamemode_preset_b.timed_ko_fest": "hunt typo: Quick fud-fest",
+    "sr.editor.config.checkpoint.visual_indicator": "wisiual indiecatr? ",
+    "sr.editor.config.checkpoint.set_point_1": " >> Paw t0 sets points 1 toos yur place (start)",
+    "sr.editor.config.checkpoint.set_point_2": " >> paw t0 sets point 2 toos yur place (start)"
 }
