@@ -568,5 +568,6 @@
     "sr.editor.display.playerstart_battle_ta": "玩家开始点（对抗 / TIME ATTACK）",
     "sr.editor.display.itemchest_race": "道具箱（竞速）",
     "sr.editor.hotbar.choose_face_direction": " >> 选择面向方向",
-    "sr.editor.give.connector": "节点连接器（丢出物品来配置）"
+    "sr.editor.give.connector": "节点连接器（丢出物品来配置）",
+    "sr.control_tip.dagger_attack_1": "背后捅了你一刀"
 }
