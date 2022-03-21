@@ -105,5 +105,10 @@
     "sr.inventory.music_custom": "Anpassat",
     "sr.inventory.music_volume_is_controlled_by": "Musik volym kontrolleras av",
     "sr.inventory.the_jukebox_noteblock_slider": "Jukebox reglaget.",
-    "sr.inventory.speedometer_units": "Hastighetsmätar enheter:"
+    "sr.inventory.speedometer_units": "Hastighetsmätar enheter:",
+    "sr.editor.face_direction.south": "[SYD]",
+    "sr.editor.face_direction.west": "[VÄST]",
+    "sr.editor.face_direction.custom": "[ANPASSAD]",
+    "sr.editor.face_direction.north": "[NORR]",
+    "sr.editor.face_direction.east": "[ÖST]"
 }
