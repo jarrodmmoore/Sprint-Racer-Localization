@@ -183,12 +183,12 @@
     "sr.game.switch_pressed": "스위치가 눌러졌습니다!",
     "sr.game.cyan_team": "청록색 팀",
     "sr.game.orange_team": "주황색 팀",
-    "sr.game.go": "GO!",
+    "sr.game.go": "출발!",
     "sr.game.fight": "FIGHT!",
-    "sr.game.lap": "렙",
+    "sr.game.lap": "랩",
     "sr.game.final_lap_1": "파이널",
-    "sr.game.final_lap_2": "렙!",
-    "sr.game.lap_completed": "렙 완주!",
+    "sr.game.final_lap_2": "랩!",
+    "sr.game.lap_completed": "랩 완주!",
     "sr.game.overall_time": "전체 시간:",
     "sr.game.1st_place": "1등!",
     "sr.game.2nd_place": "2등!",
@@ -197,5 +197,6 @@
     "sr.game.22nd_place": "22등!",
     "sr.game.cannot_find_activator_node": "활성화 노드를 찾을 수 없습니다!",
     "sr.game.finished": "완주!",
-    "sr.game.lose_ko_harmed_teammate_3": " (이)가 팀원을 공격했습니다!"
+    "sr.game.lose_ko_harmed_teammate_3": " (이)가 팀원을 공격했습니다!",
+    "sr.game.23rd_place": "23등!"
 }
