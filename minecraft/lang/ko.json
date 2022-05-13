@@ -470,7 +470,7 @@
     "sr.lobby.team_forced_to_cyan": "[ ! } 청록색 팀으로 바뀌었습니다.",
     "sr.lobby.orange_and_cyan_tied": "동점! 청록팀과 주황팀이 점수가 같습니다.",
     "sr.lobby.lobby_paused": "로비를 정지했습니다.",
-    "sr.lobby.player_must_ready_to_start": " 게임을 시작하려면 플레이어가 준비해야 합니다.",
+    "sr.lobby.player_must_ready_to_start": " 의 플레이어가 준비해야 게임을 시작할 수 있습니다.",
     "sr.lobby.not_ready": "준비 안됨",
     "sr.lobby.must_be_admin_to_do_this": "[ ! ] 관리자만 가능합니다!",
     "sr.lobby.arcade.unreleased": "비공개",
@@ -547,5 +547,7 @@
     "sr.lobby.2nd_with": "2등",
     "sr.lobby.3rd_with": "3등",
     "sr.lobby.point": " 점",
-    "sr.lobby.points": " 점"
+    "sr.lobby.points": " 점",
+    "sr.grand_prix.lap_count_set_to": "[그랑프리] 그랑프리를 시작하려면",
+    "sr.grand_prix.start_grand_prix": "트랙의 바퀴 수를 설정해야합니다"
 }
