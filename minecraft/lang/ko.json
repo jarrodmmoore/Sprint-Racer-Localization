@@ -196,5 +196,6 @@
     "sr.game.21st_place": "21등!",
     "sr.game.22nd_place": "22등!",
     "sr.game.cannot_find_activator_node": "활성화 노드를 찾을 수 없습니다!",
-    "sr.game.finished": "완주!"
+    "sr.game.finished": "완주!",
+    "sr.game.lose_ko_harmed_teammate_3": " (이)가 팀원을 공격했습니다!"
 }
