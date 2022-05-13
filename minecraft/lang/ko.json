@@ -206,5 +206,11 @@
     "sr.game.got_point": "점수",
     "sr.game.time_remaining": "남은 시간:",
     "sr.game.time_up": "시간 초과!",
-    "sr.game.elytra_activated": "겉날개 활성화됨!"
+    "sr.game.elytra_activated": "겉날개 활성화됨!",
+    "sr.game.race_ends_in_1": "경기 종료까지",
+    "sr.game.race_ends_in_2": "초!",
+    "sr.game.battle_ends_in_1": "배틀 종료까지",
+    "sr.game.battle_ends_in_2": "초!",
+    "sr.game.nth_place": "등!",
+    "sr.game.time_attack_time_remaining": " 초 남았습니다!"
 }
