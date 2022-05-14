@@ -825,7 +825,7 @@
     "sr.lobby.options.default_lobby_time": "[설정] 기본 로비 대기시간이 30초로 설정되었습니다 (기본값)",
     "sr.lobby.options.lobby_time_set_to": "[설정] 로비 대기 시간이 설정되었습니다: ",
     "sr.lobby.options.race_only": "[설정] 게임모드를 레이스 전용으로 설정했습니다",
-    "sr.lobby.options.race_and_battle": "[설정] 게임모드를 레이스 & 그랑프리로 설정했습니다",
+    "sr.lobby.options.race_and_battle": "[설정] 게임모드를 레이스 & 배틀로 설정했습니다",
     "sr.lobby.options.battle_only": "[설정] 게임모드를 배틀 전용으로 설정했습니다",
     "sr.lobby.options.item_balance_off": "[설정] 아이템 밸런스가 비활성화 되었습니다",
     "sr.lobby.options.items_all_gamemodes": "[설정] 아이템이 모든 게임 모드에 활성화되었습니다",
