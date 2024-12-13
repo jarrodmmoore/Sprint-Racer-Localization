@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/custom_chest_green"
+		"1": "block/custom_chest_green",
+		"particle": "block/stone"
 	},
 	"elements": [
 		{

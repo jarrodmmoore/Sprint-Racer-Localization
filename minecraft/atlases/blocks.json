@@ -1,0 +1,63 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "block",
+            "prefix": "block/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/conduit",
+            "prefix": "entity/conduit/"
+        },
+        {
+            "type": "single",
+            "resource": "entity/bell/bell_body"
+        },
+        {
+            "type": "single",
+            "resource": "entity/enchanting_table_book"
+        },
+		
+		
+		
+		{
+            "type": "directory",
+            "source": "custom_gui/inventory",
+            "prefix": "custom_gui/inventory/"
+        },
+		{
+            "type": "directory",
+            "source": "custom_misc",
+            "prefix": "custom_misc/"
+        },
+		{
+            "type": "directory",
+            "source": "custom_objects",
+            "prefix": "custom_objects/"
+        },
+		{
+            "type": "directory",
+            "source": "custom_objects/toy_tussle",
+            "prefix": "custom_objects/toy_tussle/"
+        },
+		{
+            "type": "directory",
+            "source": "map_preview",
+            "prefix": "map_preview/"
+        },
+		{
+            "type": "single",
+            "resource": "entity/chicken"
+        },
+		{
+            "type": "single",
+            "resource": "entity/enderman/enderman"
+        }
+    ]
+}

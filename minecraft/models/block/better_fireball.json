@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "magma_block",
 	"textures": {
 		"1": "item/fire_charge",
 		"particle": "block/red_concrete"
@@ -52,7 +51,7 @@
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"head": {
-			"scale": [5, 5, 5]
+			"scale": [3, 3, 3]
 		}
 	}
 }

@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/kart_yellow",
 		"1": "block/kart_wheels",
-		"particle": "block/kart"
+		"particle": "block/kart_yellow"
 	},
 	"elements": [
 		{

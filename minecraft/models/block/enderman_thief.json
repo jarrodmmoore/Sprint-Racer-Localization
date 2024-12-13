@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "black_terracotta",
 	"texture_size": [64, 32],
 	"textures": {
 		"0": "entity/enderman/enderman",

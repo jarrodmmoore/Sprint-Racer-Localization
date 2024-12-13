@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "custom_objects/worldmap_signs",
+		"particle": "custom_objects/worldmap_signs"
+	},
+	"elements": [
+		{
+			"from": [-16, 9, 6],
+			"to": [32, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 14, 2], "texture": "#1"},
+				"east": {"uv": [14, 0, 16, 2], "texture": "#1"},
+				"south": {"uv": [14, 0, 16, 2], "texture": "#1"},
+				"west": {"uv": [14, 0, 16, 2], "texture": "#1"},
+				"up": {"uv": [0, 8, 14, 10], "texture": "#1"},
+				"down": {"uv": [0, 10, 14, 12], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [-30, 0, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

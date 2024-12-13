@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "stone_button",
 	"textures": {
 		"0": "block/invisible",
 		"particle": "block/invisible"

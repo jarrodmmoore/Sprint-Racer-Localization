@@ -79,10 +79,38 @@
                }
             ]
     },
+	"custom_sfx/explode1": {
+          "sounds": [
+               {
+               "name": "custom_sfx/explode1"
+               }
+            ]
+    },
+	"custom_sfx/explode2": {
+          "sounds": [
+               {
+               "name": "custom_sfx/explode2"
+               }
+            ]
+    },
+	"custom_sfx/explode3": {
+          "sounds": [
+               {
+               "name": "custom_sfx/explode3"
+               }
+            ]
+    },
+	"custom_sfx/explode4": {
+          "sounds": [
+               {
+               "name": "custom_sfx/explode4"
+               }
+            ]
+    },
 	"sprint_racer_ost/loading_zone": {
           "sounds": [
                {
-               "name": "soundtrack_august/loading_zone",
+               "name": "soundtrack_misc/loading_zone",
                "attenuation_distance": 99999999,
                "volume": 0.4,
                "stream": "true"
@@ -269,6 +297,46 @@
                }
             ]
     },
+	"sprint_racer_ost/dia_de_sol": {
+          "sounds": [
+               {
+               "name": "soundtrack_misc/dia_de_sol",
+               "attenuation_distance": 99999999,
+               "volume": 0.55,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/tutorial": {
+          "sounds": [
+               {
+               "name": "soundtrack_misc/tutorial",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/echo_dance_intro": {
+          "sounds": [
+               {
+               "name": "soundtrack_misc/echo_dance_intro",
+               "attenuation_distance": 99999999,
+               "volume": 0.3,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/echo_dance": {
+          "sounds": [
+               {
+               "name": "soundtrack_misc/echo_dance",
+               "attenuation_distance": 99999999,
+               "volume": 0.3,
+               "stream": "true"
+               }
+            ]
+    },
 	"sprint_racer_ost/custom1": {
           "sounds": [
                {
@@ -353,6 +421,66 @@
           "sounds": [
                {
                "name": "soundtrack_custom/custom9",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom10": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom10",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom11": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom11",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom12": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom12",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom13": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom13",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom14": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom14",
+               "attenuation_distance": 99999999,
+               "volume": 0.5,
+               "stream": "true"
+               }
+            ]
+    },
+	"sprint_racer_ost/custom15": {
+          "sounds": [
+               {
+               "name": "soundtrack_custom/custom15",
                "attenuation_distance": 99999999,
                "volume": 0.5,
                "stream": "true"
@@ -537,5 +665,105 @@
                "stream": "false"
                }
             ]
-    }
+    },
+	     "minotaur/wheel1": {
+          "sounds": [
+               {
+               "name": "minotaur/wheel1",
+               "volume": 0.7,
+			   "attenuation_distance": 18,
+               "stream": "false"
+               }
+            ]
+    },
+	     "minotaur/wheel2": {
+          "sounds": [
+               {
+               "name": "minotaur/wheel2",
+               "volume": 0.7,
+			   "attenuation_distance": 18,
+               "stream": "false"
+               }
+            ]
+    },
+	     "minotaur/wheel3": {
+          "sounds": [
+               {
+               "name": "minotaur/wheel3",
+               "volume": 0.7,
+			   "attenuation_distance": 18,
+               "stream": "false"
+               }
+            ]
+    },
+	     "minotaur/wheel4": {
+          "sounds": [
+               {
+               "name": "minotaur/wheel4",
+               "volume": 0.7,
+			   "attenuation_distance": 18,
+               "stream": "false"
+               }
+            ]
+    },
+	     "minotaur/wheel5": {
+          "sounds": [
+               {
+               "name": "minotaur/wheel5",
+               "volume": 0.7,
+			   "attenuation_distance": 18,
+               "stream": "false"
+               }
+            ]
+    },
+	     "minotaur/wheel6": {
+          "sounds": [
+               {
+               "name": "minotaur/wheel6",
+               "volume": 0.7,
+			   "attenuation_distance": 18,
+               "stream": "false"
+               }
+            ]
+    },
+	
+	"music.game": {"replace": true,"sounds": []},
+	"music.creative": {"replace": true,"sounds": []},
+	"music.overworld.deep_dark": {"replace": true,"sounds": []},
+	"music.overworld.dripstone_caves": {"replace": true,"sounds": []},
+	"music.overworld.frozen_peaks": {"replace": true,"sounds": []},
+	"music.overworld.grove": {"replace": true,"sounds": []},
+	"music.overworld.jagged_peaks": {"replace": true,"sounds": []},
+	"music.overworld.jungle": {"replace": true,"sounds": []},
+	"music.overworld.sparse_jungle": {"replace": true,"sounds": []},
+	"music.overworld.lush_caves": {"replace": true,"sounds": []},
+	"music.overworld.meadow": {"replace": true,"sounds": []},
+	"music.overworld.old_growth_taiga": {"replace": true,"sounds": []},
+	"music.overworld.snowy_slopes": {"replace": true,"sounds": []},
+	"music.overworld.stony_peaks": {"replace": true,"sounds": []},
+	"music.overworld.swamp": {"replace": true,"sounds": []},
+	"music.overworld.badlands": {"replace": true,"sounds": []},
+	"music.overworld.bamboo_jungle": {"replace": true,"sounds": []},
+	"music.overworld.cherry_grove": {"replace": true,"sounds": []},
+	"music.overworld.desert": {"replace": true,"sounds": []},
+	"music.overworld.flower_forest": {"replace": true,"sounds": []},
+	"music.overworld.forest": {"replace": true,"sounds": []},
+	
+	"music.menu": {
+    "replace": true,
+	"sounds": [
+	  {
+	    "name": "soundtrack_misc/loading_zone",
+		"stream": true,
+		"weight": 2,
+		"volume": 0.2
+	  },
+	  {
+		"name": "soundtrack_zetasphere/forgotten",
+		"stream": true,
+		"weight": 1,
+		"volume": 0.4
+	  }
+    ]
+	}
 }

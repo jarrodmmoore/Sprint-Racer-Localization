@@ -1,13 +1,12 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "bricks",
 	"texture_size": [64, 32],
 	"textures": {
 		"0": "entity/chicken",
 		"1": "block/tnt_bottom",
 		"2": "block/tnt_side",
 		"3": "block/tnt_top",
-		"particle": "block/tnt"
+		"particle": "block/tnt_side"
 	},
 	"elements": [
 		{
